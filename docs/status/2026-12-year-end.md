@@ -3,10 +3,10 @@
 ## 현재 상태
 - 확정: 인원 2인(본인+동행 1)
 - 조건: 규슈 소도시 중심·맛집·여유 일정, 후쿠오카 시내 제외(7월 방문)
-- 미확정: 목적지, 기간, 출발 공항, 예산 상한
+- 미확정: 목적지(후보 A~F, candidates.md), 기간, 출발 공항, 예산 상한
 
 ## 다음 할 일
-1. 조건 기준으로 규슈 소도시 목적지 후보를 candidates.md에 새로 작성 → 기간·출발 공항 정하고 2~3개로 압축 — trips/2026-12-year-end/candidates.md
+1. 기간·출발 공항 정하고 목적지 후보 A~F를 2~3개로 압축 — trips/2026-12-year-end/candidates.md
 2. 압축된 후보 항공·숙소 가격 조회 — trips/2026-12-year-end/candidates.md
 3. 예산 상한 확정 후 budget.csv 1행 채우기 — trips/2026-12-year-end/budget.csv
 
